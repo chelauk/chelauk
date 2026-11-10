@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning AI and machine learning, isn't everyone?
 - 👨‍💻 Polyglot; most fluent in R, Python, Bash, and Nextflow
 - 🌐 Homepage: [chela james](https://chelajames.netlify.app/)
-- 🦋 Bluesky: [@chelauk.bsky.social](https://bsky.app/profile/chelauk.bsky.social)).
+- 🦋 Bluesky: [@chelauk.bsky.social](https://bsky.app/profile/chelauk.bsky.social).
 - 🤝 LinkedIn: [chela](https://www.linkedin.com/in/chela/)
